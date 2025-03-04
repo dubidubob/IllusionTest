@@ -200,7 +200,7 @@ def composite_hidden_object(
 if __name__ == "__main__":
     composite_hidden_object(
         background_path="background.png",
-        object_path="croi2",
+        object_path="hat",
         bg_blur_ksize=5,
         obj_dark_offset=-20,
         alpha_blur_ksize=31,
