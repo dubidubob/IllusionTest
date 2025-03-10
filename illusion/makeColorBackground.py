@@ -66,7 +66,7 @@ if __name__ == "__main__":
         width=3840,
         height=2160,
         output_file="colorbackground.png",
-        base_color=(0, 255, 255),   # 노랑(사이안+빨강)
+        base_color=(100, 0, 100),   # 노랑(사이안+빨강)
         noise_scale=25,
         saturation_scale=0.8,       # 채도를 조금 높여서 색감 강조
         contrast_factor=0.8
