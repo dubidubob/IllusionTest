@@ -199,8 +199,8 @@ def composite_hidden_object(
 
 if __name__ == "__main__":
     composite_hidden_object(
-        background_path="background.png",
-        object_path="sX",
+        background_path="colorbackground100_0_100.png",
+        object_path="sEye",
         bg_blur_ksize=5,
         obj_dark_offset=-25,
         alpha_blur_ksize=31,
